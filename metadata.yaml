@@ -1,10 +1,16 @@
 _repo: The-Mentor-Game-Animals-of-America-Vol-4-Num-13-Serial-No-113-August-15-1916_49639
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49639-h/images/cover.jpg
 creator:
   author:
     agent_name: Thornaday, W. T.
     gutenberg_agent_id: '45461'
     url: http://www.gutenberg.org/2009/agents/45461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49639#The-Mentor-Game-Animals-of-America-Vol-4-Num-13-Serial-No-113-August-15-1916
 gutenberg_issued: '2015-08-06'
 gutenberg_type: Text
 identifiers:

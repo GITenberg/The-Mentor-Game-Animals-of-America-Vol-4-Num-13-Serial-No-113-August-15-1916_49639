@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Game Animals of America, Vol. 4, Num. 13, Serial No. 113, August
   15, 1916'
 url: http://www.gutenberg.org/ebooks/49639
